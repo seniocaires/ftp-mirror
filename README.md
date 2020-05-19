@@ -1,4 +1,4 @@
-# ftp-mirror
+# FTP Mirror
 
 Use para fazer backup **DO** ftp **PARA** um diretório local
 
