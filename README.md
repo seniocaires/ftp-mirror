@@ -13,5 +13,5 @@ docker run -it --rm \
     -e FTP_PASTA='.' \
     -e FTP_DOWNLOADS_PARALELOS=4 \
     -v $(pwd)/backup:/workspace \
-seniocaires/ftp_mirror
+seniocaires/ftp-mirror
 ```
