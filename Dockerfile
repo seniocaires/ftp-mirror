@@ -1,4 +1,4 @@
-FROM debian:9
+FROM seniocaires/ubuntu-base
 
 ENV FTP_USUARIO \
     FTP_SENHA \
